@@ -19,9 +19,9 @@ A página de gerenciamento das matérias é onde nós criamos as matérias que s
 
 - Sua missão será criar uma página onde fazemos todo o gerenciamento das matérias persistidas em um banco de dados relacional. As matérias devem ser dos tipos personalizadas (matérias que criamos para faculdades específicas) e matérias gerais, em ambos os tipos temos os seguintes dados: **Nome** e **Descrição**. 
 
-- O sistema deve esconder uma matéria do dashboard, mas não necessariamente excluir, apenas deixar invisível ao aluno, mantendo o registro na base de dados. 
-
 - O sistema deve apresentar um dashboard de listagem de matérias, separadas entre matérias personalizadas e matérias gerais.
+
+- O sistema deve esconder uma matéria do dashboard, mas não necessariamente excluir, apenas deixar invisível ao aluno no dashboard, mantendo o registro na base de dados. 
 
 - **Não se preocupe em reproduzir o design da nossa tela**, ela está incluída apenas como inspiração, o que iremos analisar é como você **cria**, **persiste** e **exibe os dados** e que seja **funcional**.
 
